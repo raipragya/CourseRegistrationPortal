@@ -402,7 +402,7 @@ Expected behavior:
 
 ---
 
-## Learning Outcome
+## Conclusion
 
 This project is not just a basic course registration system. It is an implementation of a **concurrent networked application** in C.
 
@@ -413,8 +413,6 @@ It combines:
 * TCP socket communication
 * Multi-client handling
 * File synchronization
-
-The project provides hands-on understanding of how real-world server systems manage multiple users while protecting shared data from concurrent access issues.
 
 ---
 
